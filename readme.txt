@@ -75,8 +75,8 @@ Notes (When Convert WordPress's Smileys):
 
 == Screenshots ==
 
-1. available emoticons.png
-2. tinymce plugins.png
+1. screenshot-1.png
+2. screenshot-2.png
 
 == Changelog ==
 
