@@ -4,7 +4,7 @@ Contributors: viphat
 Donate link: https://github.com/viphat/wp-emo-ello
 Tags: smileys, emoticons, Fontello
 Requires at least: 3.9.0
-Tested up to: 4.1.0
+Tested up to: 4.2.0
 Stable tag: 0.3
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -75,8 +75,8 @@ Notes (When Convert WordPress's Smileys):
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
+1. available emoticons
+2. tinymce plugins
 
 == Changelog ==
 
